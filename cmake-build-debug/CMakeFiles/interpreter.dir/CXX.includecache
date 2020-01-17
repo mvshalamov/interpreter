@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maximshalamov/Desktop/project/interpreter/interpreter.cpp
+interpreter.h
+/Users/maximshalamov/Desktop/project/interpreter/interpreter.h
+
+/Users/maximshalamov/Desktop/project/interpreter/interpreter.h
+iostream
+/Users/maximshalamov/Desktop/project/interpreter/iostream
+
